@@ -1,0 +1,4 @@
+src/libscintilla_la-DBCS.lo: src/DBCS.cxx /usr/include/stdc-predef.h \
+ src/DBCS.h
+/usr/include/stdc-predef.h:
+src/DBCS.h:
